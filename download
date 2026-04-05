@@ -1,0 +1,12 @@
+# 데이터 파일
+data/
+*.csv
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
